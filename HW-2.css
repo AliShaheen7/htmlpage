@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(81, 235, 235);
+}
+
+section{
+   
+    width: 70%;
+    margin:70px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #2F89C5;
+
+}
+
+.left ,.right{
+float: left;
+width: 50%;
+}
+
+
+
+.in input {
+width:90% ;
+height: 30px;
+border:  1px solid rgb(207, 207, 207);
+border-radius: 3px;
+margin: 10px 0px;
+}
+
+.two{
+
+    float: left;
+    width: 50%;
+  
+}
+.two input{
+    
+width: 80%;
+  
+}
+ 
+.checkbox{
+    margin: 30px 0px ;
+}
+
+.have{
+    background-color:white;
+    color: rgb(80, 80, 80);
+    border: 0;
+    border-radius: 3px;
+font-weight: bold;
+font-size: 12px;
+    padding: 10px 20px;
+}
+.reg{
+    background-color:#2F89C5;
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    width: 100px;
+    padding: 10px;
+}
+.left{
+    background-color: #2F89C5;
+    color: white;
+
+}
+
+.right .inside  ,.left .inside{
+    width: 80%;
+  margin: 40px;
+}
+
+.right{
+    background-color: white;
+    color: rgb(80, 80, 80);
+    padding-bottom: 40px;
+}
+
+.right h1{
+color: #2F89C5 ;
+font-size: 27px;
+}
+.left h1{
+
+    font-size: 27px;
+    }
+.right u{
+    color: #2F89C5 ;
+   
+    }
